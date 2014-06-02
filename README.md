@@ -1,4 +1,4 @@
-inSSIDer-GPX-Summarizer
+inSSIDer GPX Summarizer
 =======================
 
 inSSIDer GPX to summary GPX including ability to merge
